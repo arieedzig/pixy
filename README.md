@@ -19,3 +19,4 @@ This directory contains:
 
 /src/host/arduino - this directory contains the Arduino library for communicating with Pixy.
 
+/src/host/libpixyusb_swig - this directory contains the python USB library for communicating with Pixy.
